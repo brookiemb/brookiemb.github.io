@@ -1,0 +1,13 @@
+name: Brooke Smith
+output_dir: '.'
+output:
+  html_document:
+    theme: flatly
+    lib_dir: site_libs
+    self_contained: no
+navbar:
+  title: ''
+  left:
+  - text: Home
+    icon: fa-home
+    href: index.html
