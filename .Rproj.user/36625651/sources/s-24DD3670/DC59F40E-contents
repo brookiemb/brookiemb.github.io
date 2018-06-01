@@ -3,3 +3,10 @@ title: "My Website"
 ---
 
 My Website is super awesome!
+
+
+<object data="https://brookiemb.github.io/cv/cv.pdf" type="application/pdf">
+    <embed src="https://brookiemb.github.io/cv/cv.pdf" type="application/pdf" />
+</object>
+
+<iframe id="brookie" style="border:1px solid #666CCC" title="PDF in an i-Frame" src="https://brookiemb.github.io/cv/cv.pdf" frameborder="1" scrolling="auto" height="1100" width="850" ></iframe>
